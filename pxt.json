@@ -1,0 +1,34 @@
+{
+    "name": "gatorParticle",
+    "version": "1.1.6",
+    "description": "SparkFun gator:Particle Sensor",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "README.md",
+        "gatorparticle.ts",
+        "gatorparticle.cpp",
+        "MAX30105.cpp",
+        "MAX30105.h",
+        "shims.d.ts",
+        "enums.d.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": true,
+    "targetVersions": {
+        "branch": "v6.0.17",
+        "tag": "v6.0.17",
+        "commits": "https://github.com/microsoft/pxt-microbit/commits/8f2212096e30017f6c9c561e3241df44b3acd755",
+        "target": "6.0.17",
+        "pxt": "9.0.12",
+        "targetId": "microbit"
+    },
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "tsprj"
+}
