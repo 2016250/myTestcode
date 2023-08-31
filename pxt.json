@@ -12,7 +12,11 @@
         "MAX30105.cpp",
         "MAX30105.h",
         "shims.d.ts",
-        "enums.d.ts"
+        "enums.d.ts",
+        "heartRate.cpp",
+        "heartRate.h",
+        "spo2_algorithm.cpp",
+        "spo2_algorithm.h"
     ],
     "testFiles": [
         "test.ts"
