@@ -7,7 +7,6 @@
         "core": "*"
     },
     "files": [
-        "README.md",
         "gatorparticle.ts",
         "gatorparticle.cpp",
         "MAX30105.cpp",
